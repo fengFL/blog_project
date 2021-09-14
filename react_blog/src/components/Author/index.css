@@ -1,0 +1,13 @@
+.author-container {
+    text-align: center;
+    background-color: #fff;
+    
+    margin-left: 1.5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem
+}
+.author-avatar {
+    margin: .5rem;
+    color: #333;
+    background-color: #fff;
+}

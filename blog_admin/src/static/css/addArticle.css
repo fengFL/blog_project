@@ -1,0 +1,45 @@
+textarea {
+    resize: none;
+}
+.show-html {
+    width: 100%;
+    height: 100%;
+    background-color: #ddd;
+    padding: 5px;
+}
+.edit-content-container {
+    margin-top: 10px;
+}
+.date-select {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.introduce-html {
+    margin-top: 5px;
+    width: 100%;
+    min-height: 15px;
+    background-color: #ddd;
+    border-radius: 3px;
+    padding: 3px;
+}
+pre {
+    display: block;
+    color: #fff;
+    background-color: pink;
+    padding: 5px;
+    border: 5px;
+}
+pre > code {
+    background-color: pink;
+
+}
+code {
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+blockquote{
+    border-left:4px solid #cbcbcb ;
+    padding: 10px 10px 10px 30px; 
+    background-color: #f8f8f8;
+}

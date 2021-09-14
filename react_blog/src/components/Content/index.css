@@ -1,0 +1,33 @@
+.comm-main {
+    margin-top: .5rem;
+}
+.comm-left {
+    background-color: #fff;
+    padding: .3rem;
+    border-radius: .3rem;
+    border-bottom: 1px solid #eee;
+}
+/* .comm-right {
+    background-color: #fff;
+    margin-left: .5rem;
+    padding: .3rem;
+    border-radius: .3rem;
+    border-bottom: 1px solid #eee;
+} */
+.list-title {
+    height: 2rem;
+    line-height: 2rem;
+    color: #1890ff;
+    font-size: 1.4rem;
+    padding-left: .5rem;
+    
+}
+.list-context {
+    font-size: .6rem;
+    color:#333;
+    padding:.5rem
+}
+.list-icon {
+    color: #aaa;
+    font-size: .8rem;
+}
